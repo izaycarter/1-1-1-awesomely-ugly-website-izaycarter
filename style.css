@@ -1,0 +1,29 @@
+#div-img{
+    display: inline-block;
+}
+#horrible-quote{
+    background-color: silver;
+}
+
+.nav > li{
+    text-decoration: none;
+    display: inline-block;
+    color: purple;
+}
+
+h2 {
+    padding: 40px;
+    background-color: orange;
+    border: solid 4px red;
+}
+
+body{
+    background-color: green;
+    margin-top: 10px;
+    margin-bottom: 32px;
+}
+
+body > p{
+    font-size: 200px;
+    font-weight: bold;
+}
