@@ -1,0 +1,1 @@
+My first day was both nerve racking and exciting at the same time, but in the end it was an amazing day.I learned how to target specific elements in CSS by using their parents firts then a " > " then the element or class to be more precise if need be(I.E. div > li { color:red }). I'm very much looking forward to each day onward!
